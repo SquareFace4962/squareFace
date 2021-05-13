@@ -1,0 +1,15 @@
+{
+  "name": "discord-generator",
+  "version": "1.0.0",
+  "description": "Discord generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.3"
+  }
+}
